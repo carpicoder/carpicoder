@@ -31,6 +31,7 @@ jobs:
         run: node index.js
         env: 
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          YOUTUBE_USER_ID: ${{ secrets.YOUTUBE_USER_ID }}
       - name: Commit changes
         run: |
           git config --global user.email "webcarpi@gmail.com"
