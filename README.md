@@ -5,7 +5,7 @@
 Frontend development Teacher at <a href="https://coderhouse.com">Coderhouse</a><br/>
 Frontend development Content Creator on my <a href="https://youtube.com/carpicoder">YouTube channel</a></p>
 
-<a href="https://youtube.com/carpicoder" target="_blank"><img src="https://img.shields.io/badge/@carpicoder-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white"></a> <img src="https://img.shields.io/badge/13.7K%20subs%20|%20120%20videos%20|%20759.4K%20views-2F3134?style=flat-square&logo=hyperledger&logoColor=white"> <a href="https://carpicoder.com" target="_blank"><img src="https://img.shields.io/badge/carpicoder.com-%23FF0000.svg?style=flat-square&logoColor=white"></a>
+<a href="https://youtube.com/carpicoder" target="_blank"><img src="https://img.shields.io/badge/@carpicoder-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white"></a> <img src="https://img.shields.io/badge/+13K%20subs%20|%20+120%20videos%20|%20+700k%20views-2F3134?style=flat-square&logo=hyperledger&logoColor=white"> <a href="https://carpicoder.com" target="_blank"><img src="https://img.shields.io/badge/carpicoder.com-%23FF0000.svg?style=flat-square&logoColor=white"></a>
 
 <a href="https://instagram.com/carpicoder"><img src="https://img.shields.io/badge/@carpicoder-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white"></a>
 <a href="https://x.com/carpicoder"><img src="https://img.shields.io/badge/@carpicoder-%23000000.svg?style=flat-square&logo=X&logoColor=white"></a>
@@ -30,7 +30,25 @@ Frontend development Content Creator on my <a href="https://youtube.com/carpicod
     <img src="https://img.shields.io/badge/Jest-%23C21325?style=flat-square&logo=jest&logoColor=white">
 </p>
 
- <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white"> <img src="https://img.shields.io/badge/WooCommerce-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white"> <img src="https://img.shields.io/badge/Elementor-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white"> <img src="https://img.shields.io/badge/Themes%20&%20Plugins%20Development-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white"> <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase"> <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white"> <img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white"> <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white">
+<h3>WordPress</h3>
+
+<p>
+    <img src="https://img.shields.io/badge/WooCommerce-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white">
+    <img src="https://img.shields.io/badge/Elementor-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white">
+    <img src="https://img.shields.io/badge/Themes%20&%20Plugins%20Development-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white">
+</p>
+
+<h3>Backend</h3>
+
+<p>
+    <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase">
+    <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white">
+    <img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white">
+    <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white">
+</p>
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=carpicoder&include_all_commits=true&text_bold=false&custom_title=Some%20stats&show_icons=true&hide_rank=true&hide=prs,issues,contribs&theme=dark">
 
