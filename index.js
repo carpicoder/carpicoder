@@ -1,6 +1,8 @@
 // index.js
 const Mustache = require('mustache');
 const fs = require('fs');
+const apiKey = process.env.YOUTUBE_API_KEY;
+console.log(apiKey);
 const MUSTACHE_MAIN_DIR = './main.mustache';/**
   * DATA is the object that contains all
   * the data to be provided to Mustache
@@ -10,7 +12,7 @@ let DATA = {
   name: 'Matias',
   date: new Date().toLocaleDateString('es-ES', {
     weekday: 'long',
-    month: 'long',
+    month: 'long',  
     day: 'numeric',
     hour: 'numeric',
     minute: 'numeric',
