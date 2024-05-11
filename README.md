@@ -1,7 +1,7 @@
-<h1>Hi! I'm Matias 👋</h1>
+<h1>Hi! I'm Matias 👋<a href="https://linkedin.com/in/matiascoletta"><img src="https://img.shields.io/badge/Matias%20Coletta-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"></a>
+<a href="https://matiascoletta.com"><img src="https://img.shields.io/badge/matiascoletta.com-%23FF3C00.svg?style=flat&logoColor=white"></a></h1>
 
-<a href="https://linkedin.com/in/matiascoletta"><img src="https://img.shields.io/badge/Matias%20Coletta-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"></a>
-<a href="https://matiascoletta.com"><img src="https://img.shields.io/badge/matiascoletta.com-%23FF3C00.svg?style=flat&logoColor=white"></a>
+
 
 <p>Born in 🇦🇷 Argentina and living in 🇪🇸 Spain, open to new challenges and experiences.</p>
 
