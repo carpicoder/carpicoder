@@ -7,7 +7,7 @@ Frontend development Content Creator on my <a href="https://youtube.com/carpicod
 
 <hr height="1">
 
-<a href="https://youtube.com/carpicoder" target="_blank"><img src="https://img.shields.io/badge/@carpicoder-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white" alt="@carpicoder"></a> <img src="https://img.shields.io/badge/+13K%20subs%20|%20+120%20videos%20|%20+700k%20views-2F3134?style=flat-square&logo=hyperledger&logoColor=white">
+<a href="https://youtube.com/carpicoder" target="_blank"><img src="https://img.shields.io/badge/@carpicoder-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white" alt="@carpicoder"></a> <img src="https://img.shields.io/badge/13.6K%20subs%20|%20120%20videos%20|%20759.4K%20views-2F3134?style=flat-square&logo=hyperledger&logoColor=white">
 
 <a href="https://instagram.com/carpicoder"><img src="https://img.shields.io/badge/@carpicoder-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" alt="@carpicoder"></a>
 <a href="https://x.com/carpicoder"><img src="https://img.shields.io/badge/@carpicoder-%23000000.svg?style=flat-square&logo=X&logoColor=white" alt="@carpicoder"></a>
