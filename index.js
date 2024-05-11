@@ -31,7 +31,7 @@ async function generateReadMe() {
         DATA.apiKeyStatus = 'No se encontraron datos de estadísticas de suscriptores en la respuesta.';
       }
     } else {
-      DATA.apiKeyStatus = data;
+      DATA.apiKeyStatus = JSON.stringify(data);
     }
   
     fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
