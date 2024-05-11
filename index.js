@@ -25,7 +25,7 @@ async function generateReadMe() {
         const subscriberCount = data.items[0].statistics.subscriberCount;
         DATA.subscriberCount = subscriberCount;
     } else {
-        console.error("No se encontraron datos de estadísticas en la respuesta.");
+        DATA.subscriberCount = "test"
     }
 
     fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
