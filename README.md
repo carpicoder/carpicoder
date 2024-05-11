@@ -5,7 +5,7 @@
 Frontend development Teacher at <a href="https://coderhouse.com">Coderhouse</a><br/>
 Frontend development Content Creator on my <a href="https://youtube.com/carpicoder">YouTube channel</a></p>
 
-<a href="https://youtube.com/carpicoder" target="_blank"><img src="https://img.shields.io/badge/@carpicoder-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white"></a> <img src="https://img.shields.io/badge/13.7K%20subs%20|%20120%20videos%20|%20759.4K%20views-2F3134?style=flat-square&logo=hyperledger&logoColor=white"> <a href="https://carpicoder.com" target="_blank"><img src="https://img.shields.io/badge/carpicoder.com-%23FF0000.svg?style=flat-square&logoColor=white"></a>
+<a href="https://youtube.com/carpicoder" target="_blank"><img src="https://img.shields.io/badge/@carpicoder-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white"></a> <img src="https://img.shields.io/badge/+13K%20subs%20|%20+120%20videos%20|%20+700k%20views-2F3134?style=flat-square&logo=hyperledger&logoColor=white"> <a href="https://carpicoder.com" target="_blank"><img src="https://img.shields.io/badge/carpicoder.com-%23FF0000.svg?style=flat-square&logoColor=white"></a>
 
 <a href="https://instagram.com/carpicoder"><img src="https://img.shields.io/badge/@carpicoder-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white"></a>
 <a href="https://x.com/carpicoder"><img src="https://img.shields.io/badge/@carpicoder-%23000000.svg?style=flat-square&logo=X&logoColor=white"></a>
@@ -18,7 +18,8 @@ Frontend development Content Creator on my <a href="https://youtube.com/carpicod
 
 <h2>Stuff I work with</h2>
 
-<h3>Frontend</h3><p>
+<h3>Frontend</h3>
+<p>
     <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white">
@@ -40,6 +41,10 @@ Frontend development Content Creator on my <a href="https://youtube.com/carpicod
     <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase">
+</p>
+
+<h3>Design</h3>
+<p>
     <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white">
     <img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white">
     <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white">
@@ -49,4 +54,4 @@ Frontend development Content Creator on my <a href="https://youtube.com/carpicod
 <img src="https://github-readme-stats.vercel.app/api?username=carpicoder&include_all_commits=true&text_bold=false&custom_title=Some%20stats&show_icons=true&hide_rank=true&hide=prs,issues,contribs&theme=dark">
 
 ------------
-<p align="center">This README file is generated <b>every 12 hours</b>!</br>Last refresh: Sunday, May 12 at 12:41 AM GMT+2<br />Kudos to <a href="https://github.com/thmsgbrt">@thmsgbrt</a> for creating <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">this amazing tutorial</a> on how to do this.</p>
+<p align="center">This README file is generated <b>every 12 hours</b>!</br>Last refresh: Sunday, May 12 at 12:42 AM GMT+2<br />Kudos to <a href="https://github.com/thmsgbrt">@thmsgbrt</a> for creating <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">this amazing tutorial</a> on how to do this.</p>
