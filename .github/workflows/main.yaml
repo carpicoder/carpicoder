@@ -31,8 +31,6 @@ jobs:
         run: node index.js
       - name: Commit changes
         run: |
-          git config --global user.email "webcarpi@gmail.com"
-          git config --global user.name "carpicoder"
           git add .
           git commit -m "Update README"
       - name: Push changes to Main branch
