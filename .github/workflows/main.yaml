@@ -3,9 +3,9 @@ name: README build
 on:
   push:
     branches:
-      - master
+      - main
   schedule:
-    - cron: '0 */3 * * *'
+    - cron: '* * * * *'
 
 jobs:
   build:
