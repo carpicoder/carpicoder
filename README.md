@@ -1,6 +1,11 @@
-<h1 style="display: flex">Hi! I'm Matias 👋 <span><a href="https://linkedin.com/in/matiascoletta"><img src="https://img.shields.io/badge/Matias%20Coletta-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"></a>
-<a href="https://matiascoletta.com"><img src="https://img.shields.io/badge/matiascoletta.com-%23FF3C00.svg?style=flat&logoColor=white"></a></span></h1>
+<table>
+    <tr>
+        <td><h1>Hi! I'm Matias 👋</h1></td>
+        <td><span><a href="https://linkedin.com/in/matiascoletta"><img src="https://img.shields.io/badge/Matias%20Coletta-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"></a>
+<a href="https://matiascoletta.com"><img src="https://img.shields.io/badge/matiascoletta.com-%23FF3C00.svg?style=flat&logoColor=white"></a></span></td>
+    </tr>
 
+</table>
 
 
 <p>Born in 🇦🇷 Argentina and living in 🇪🇸 Spain, open to new challenges and experiences.</p>
@@ -9,7 +14,7 @@
 Frontend development Teacher at <a href="https://coderhouse.com">Coderhouse</a><br/>
 Frontend development Content Creator on my <a href="https://youtube.com/carpicoder">YouTube channel</a></p>
 
-<a href="https://youtube.com/carpicoder" target="_blank"><img src="https://img.shields.io/badge/@carpicoder-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white"></a> <img src="https://img.shields.io/badge/13.7K%20subs%20|%20120%20videos%20|%20759.4K%20views-2F3134?style=flat&logo=hyperledger&logoColor=white"> 
+<a href="https://youtube.com/carpicoder" target="_blank"><img src="https://img.shields.io/badge/@carpicoder-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white"></a> <img src="https://img.shields.io/badge/+13K%20subs%20|%20+120%20videos%20|%20+700k%20views-2F3134?style=flat&logo=hyperledger&logoColor=white"> 
 
 <a href="https://carpicoder.com" target="_blank"><img src="https://img.shields.io/badge/carpicoder.com-%23FF0000.svg?style=flat&logoColor=white"></a>
 <a href="https://instagram.com/carpicoder"><img src="https://img.shields.io/badge/@carpicoder-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white"></a>
@@ -53,4 +58,4 @@ Frontend development Content Creator on my <a href="https://youtube.com/carpicod
 </p>
 
 ---
-<p align="center"><sub>This README file is generated <b>every 12 hours</b>!</br>Last refresh: Sunday, May 12 at 1:26 AM GMT+2<br />Kudos to <a href="https://github.com/thmsgbrt">@thmsgbrt</a> for creating <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">this amazing tutorial</a> on how to do this.</sub></p>
+<p align="center"><sub>This README file is generated <b>every 12 hours</b>!</br>Last refresh: Sunday, May 12 at 1:27 AM GMT+2<br />Kudos to <a href="https://github.com/thmsgbrt">@thmsgbrt</a> for creating <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">this amazing tutorial</a> on how to do this.</sub></p>
