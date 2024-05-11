@@ -1,8 +1,9 @@
 // index.js
 const Mustache = require('mustache');
 const fs = require('fs');
-const fetch = require('cross-fetch'); // Importa el módulo fetch desde cross-fetch
-const apiKey = process.env.YOUTUBE_API_KEY;
+const fetch = require('cross-fetch');
+const youtubeApiKey = process.env.YOUTUBE_API_KEY;
+const youruteUserId = process.env.YOUTUBE_USER_ID;
 const MUSTACHE_MAIN_DIR = './main.mustache';
 
 let DATA = {
@@ -18,14 +19,17 @@ let DATA = {
 };
 
 async function generateReadMe() {
-    const response = await fetch(`https://www.googleapis.com/youtube/v3/channels?part=statistics&id=UC53KeIgcYPozO6SqlN6edbw&key=${apiKey}`);
+    const response = await fetch(`https://www.googleapis.com/youtube/v3/channels?part=statistics&id=${youruteUserId}&key=${youtubeApiKey}`);
     const data = await response.json();
 
     if (data.items && data.items.length > 0) {
-        const subscriberCount = data.items[0].statistics.subscriberCount;
-        DATA.subscriberCount = subscriberCount;
+        DATA.subscriberCount = data.items[0].statistics.subscriberCount;
+        DATA.videoCount = data.items[0].statistics.videoCount;
+        DATA.viewCount = data.items[0].statistics.viewCount;
     } else {
-        DATA.subscriberCount = "+13.6K"
+        DATA.subscriberCount = "+13K";
+        DATA.videoCount = "+120";
+        DATA.viewCount = "+700k";
     }
 
     fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
