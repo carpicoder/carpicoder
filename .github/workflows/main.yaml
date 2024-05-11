@@ -9,14 +9,15 @@ on:
 
 jobs:
   build:
-    name: README build
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout current repository to Master branch
+      - name: Checkout current repository to Main branch
         uses: actions/checkout@v2
+        with:
+          ref: main
       - name: Setup NodeJs 20.x
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v1
         with:
           node-version: '20.x'
       - name: Cache dependencies and build outputs to improve workflow execution time.
@@ -28,8 +29,14 @@ jobs:
         run: npm install
       - name: Generate README file
         run: node index.js
-      - name: Commit and Push new README.md to the repository
-        uses: mikeal/publish-to-github-action@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH_NAME: 'main'
+      - name: Commit changes
+        run: |
+          git config --global user.email "webcarpi@gmail.com"
+          git config --global user.name "carpicoder"
+          git add .
+          git commit -m "Update README"
+      - name: Push changes to Main branch
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
