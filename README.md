@@ -1,1 +1,1 @@
-<h1>Mi nombre es Matias y hoy es sábado, 11 de mayo, 20:01 CEST.</h1>
+<h1>Mi nombre es Matias y hoy es sábado, 11 de mayo.</h1>
