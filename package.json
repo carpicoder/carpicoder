@@ -1,0 +1,14 @@
+{
+  "name": "repo-profile",
+  "version": "1.0.0",
+  "description": "<!--\r **carpicoder/carpicoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
