@@ -21,7 +21,7 @@ async function generateReadMe() {
     const response = await fetch(`https://www.googleapis.com/youtube/v3/channels?part=statistics&id=UC53KeIgcYPozO6SqlN6edbw&key=${apiKey}`);
     const data = await response.json();
   
-    if (data) {
+    if (data.items) {
       const statistics = data.items[0].statistics;
       if (statistics && statistics.subscriberCount) {
         const subscriberCount = statistics.subscriberCount;
