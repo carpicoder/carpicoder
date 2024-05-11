@@ -5,7 +5,7 @@
 Frontend development Teacher at <a href="https://coderhouse.com">Coderhouse</a><br/>
 Frontend development Content Creator on my <a href="https://youtube.com/carpicoder">YouTube channel</a></p>
 
-<a href="https://youtube.com/carpicoder" target="_blank"><img src="https://img.shields.io/badge/@carpicoder-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white"></a> <img src="https://img.shields.io/badge/13.7K%20subs%20|%20120%20videos%20|%20759.4K%20views-2F3134?style=flat-square&logo=hyperledger&logoColor=white"> <a href="https://carpicoder.com" target="_blank"><img src="https://img.shields.io/badge/carpicoder.com-%23FF0000.svg?style=flat-square&logoColor=white"></a>
+<a href="https://youtube.com/carpicoder" target="_blank"><img src="https://img.shields.io/badge/@carpicoder-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white"></a> <img src="https://img.shields.io/badge/+13K%20subs%20|%20+120%20videos%20|%20+700k%20views-2F3134?style=flat-square&logo=hyperledger&logoColor=white"> <a href="https://carpicoder.com" target="_blank"><img src="https://img.shields.io/badge/carpicoder.com-%23FF0000.svg?style=flat-square&logoColor=white"></a>
 
 <a href="https://instagram.com/carpicoder"><img src="https://img.shields.io/badge/@carpicoder-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white"></a>
 <a href="https://x.com/carpicoder"><img src="https://img.shields.io/badge/@carpicoder-%23000000.svg?style=flat-square&logo=X&logoColor=white"></a>
@@ -18,9 +18,7 @@ Frontend development Content Creator on my <a href="https://youtube.com/carpicod
 
 <h2>Stuff I work with</h2>
 
-<h3>Frontend</h3>
-
-<p>
+<h3>Frontend</h3><p>
     <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white">
@@ -31,7 +29,6 @@ Frontend development Content Creator on my <a href="https://youtube.com/carpicod
 </p>
 
 <h3>WordPress</h3>
-
 <p>
     <img src="https://img.shields.io/badge/WooCommerce-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white">
     <img src="https://img.shields.io/badge/Elementor-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white">
@@ -39,7 +36,6 @@ Frontend development Content Creator on my <a href="https://youtube.com/carpicod
 </p>
 
 <h3>Backend</h3>
-
 <p>
     <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white">
