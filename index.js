@@ -12,6 +12,8 @@ let DATA = {
     weekday: 'long',
     month: 'long',
     day: 'numeric',
+    hour: 'numeric',
+    minute: 'numeric',
     timeZone: 'Europe/Stockholm',
   }),
 };/**
