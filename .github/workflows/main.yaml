@@ -29,10 +29,6 @@ jobs:
         run: npm install
       - name: Generate README file
         run: node index.js
-      - name: Commit changes
-        run: |
-          git add .
-          git commit -m "Update README"
       - name: Push changes to Main branch
         uses: ad-m/github-push-action@master
         with:
