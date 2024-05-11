@@ -46,7 +46,7 @@ async function generateReadMe() {
     const data = await response.json();
 
     if (data.items && data.items.length > 0) {
-        DATA.subscriberCount = data.items[0].statistics.subscriberCount;
+        DATA.subscriberCountFull = data.items[0].statistics.subscriberCount;
         DATA.subscriberCount = abbreviateNumber(data.items[0].statistics.subscriberCount);
         DATA.videoCount = abbreviateNumber(data.items[0].statistics.videoCount);
         DATA.viewCount = abbreviateNumber(data.items[0].statistics.viewCount);
