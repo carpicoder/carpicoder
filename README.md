@@ -1,7 +1,9 @@
 <h1>Hi! I'm Matias 👋</h1>
-<p>I'm a <strong>Frontend & WordPress</strong> developer and content creator with over 13600 subscribers.</p>
+<p>Born in 🇦🇷 Argentina and living in 🇪🇸 Spain, open to new challenges and experiences.<br/>Cofounder and Developer of <a href="https://urutienda.com">Urutienda</a><br/>
+Frontend development Teacher at <a href="https://coderhouse.com">Coderhouse</a><br/>
+Frontend development Content Creator on my <a href="https://youtube.com/carpicoder">YouTube channel</a></p>
 
-<a href="https://youtube.com/carpicoder" target="_blank"><img src="https://img.shields.io/badge/@carpicoder-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white" alt="@carpicoder"></a> <img src="https://img.shields.io/badge/13.6K%20subs%20|%20120%20videos%20|%20759.4K%20views-2F3134?style=flat-square&logo=hyperledger&logoColor=white">
+<a href="https://youtube.com/carpicoder" target="_blank"><img src="https://img.shields.io/badge/@carpicoder-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white" alt="@carpicoder"></a> <img src="https://img.shields.io/badge/+13K%20subs%20|%20+120%20videos%20|%20+700k%20views-2F3134?style=flat-square&logo=hyperledger&logoColor=white">
 
 <a href="https://instagram.com/carpicoder"><img src="https://img.shields.io/badge/@carpicoder-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" alt="@carpicoder"></a>
 <a href="https://x.com/carpicoder"><img src="https://img.shields.io/badge/@carpicoder-%23000000.svg?style=flat-square&logo=X&logoColor=white" alt="@carpicoder"></a>
@@ -9,11 +11,6 @@
 <a href="https://tiktok.com/@carpicoder"><img src="https://img.shields.io/badge/@carpicoder-%23000000.svg?style=flat-square&logo=TikTok&logoColor=white" alt="@carpicoder"></a>
 <a href="https://discord.gg/wHKxGbMt4A"><img src="https://img.shields.io/badge/Carpi%20Coder-%235865F2.svg?style=flat-square&logo=discord&logoColor=white" alt="Carpi Coder"></a>
 <a href="https://linkedin.com/in/matiascoletta"><img src="https://img.shields.io/badge/Matias%20Coletta-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="Matias Coletta"></a>
-
-<h2>About me</h2>
-<p>Born in 🇦🇷 Argentina and living in 🇪🇸 Spain, open to new challenges and experiences.<br/>Cofounder and Developer of <a href="https://urutienda.com">Urutienda</a><br/>
-Frontend development Teacher at <a href="https://coderhouse.com">Coderhouse</a><br/>
-Frontend development Content Creator on my <a href="https://youtube.com/carpicoder">YouTube channel</a></p>
 
 <h2>Stuff I work with</h2>
 
@@ -30,4 +27,4 @@ Frontend development Content Creator on my <a href="https://youtube.com/carpicod
 <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase" alt="Firebase">
 
 ------------
-<p align="center">This README file is generated <b>every 24 hours</b>!</br>Last refresh: Saturday, May 11 at 11:33 PM<br />Kudos to @thmsgbrt for creating <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">this tutorial</a> on how to do this.</p>
+<p align="center">This README file is generated <b>every 24 hours</b>!</br>Last refresh: Saturday, May 11 at 11:34 PM<br />Kudos to @thmsgbrt for creating <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">this tutorial</a> on how to do this.</p>
