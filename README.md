@@ -2,7 +2,7 @@
 <p>I'm a <strong>Frontend & WordPress</strong> developer and content creator.</p>
 
 ### Estado de la Clave de la API de YouTube:
-No se encontraron datos de estadísticas en la respuesta.
+[object Object]
 
 <a href="https://youtube.com/carpicoder"><img src="https://img.shields.io/badge/@carpicoder-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white" alt="@carpicoder"><img src="https://img.shields.io/badge/13.6K%20subs-2F3134?style=flat-square&logo=hyperledger&logoColor=white" alt="13K SUBS"><img src="https://img.shields.io/badge/120%20videos-2F3134?style=flat-square&logo=hyperledger&logoColor=white" alt="13K SUBS"><img src="https://img.shields.io/badge/759.4K%20views-2F3134?style=flat-square&logo=hyperledger&logoColor=white" alt="13K SUBS"></a>
 
