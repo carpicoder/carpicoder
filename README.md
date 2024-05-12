@@ -8,7 +8,7 @@
 Frontend development Teacher at <a href="https://coderhouse.com">Coderhouse</a><br/>
 Frontend development Content Creator on my <a href="https://youtube.com/carpicoder">YouTube channel</a></p>
 
-<a href="https://youtube.com/carpicoder" target="_blank"><img src="https://img.shields.io/badge/@carpicoder-+13K%20subs%20|%20+120%20videos%20|%20+700k%20views-ff0000?color=2F3134&logo=youtube&labelColor=ff0000&style=flat"></a>
+<a href="https://youtube.com/carpicoder" target="_blank"><img src="https://img.shields.io/badge/@carpicoder-13.7K%20subs%20|%20120%20videos%20|%20759.4K%20views-ff0000?color=2F3134&logo=youtube&labelColor=ff0000&style=flat"></a>
 
 <a href="https://carpicoder.com" target="_blank"><img src="https://img.shields.io/badge/carpicoder.com-%23FF3C00.svg?style=flat&logoColor=white"></a>
 <a href="https://instagram.com/carpicoder"><img src="https://img.shields.io/badge/@carpicoder-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white"></a>
