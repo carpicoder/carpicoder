@@ -8,7 +8,7 @@
 Frontend development Teacher at <a href="https://coderhouse.com">Coderhouse</a><br/>
 Frontend development Content Creator on my <a href="https://youtube.com/carpicoder">YouTube channel</a></p>
 
-<a href="https://youtube.com/carpicoder" target="_blank"><img src="https://img.shields.io/badge/@carpicoder-18.4K%20subs%20|%20130%20videos%20|%201.0M%20views-ff0000?color=2F3134&logo=youtube&labelColor=ff0000&style=flat"></a>
+<a href="https://youtube.com/carpicoder" target="_blank"><img src="https://img.shields.io/badge/@carpicoder-18.5K%20subs%20|%20130%20videos%20|%201.0M%20views-ff0000?color=2F3134&logo=youtube&labelColor=ff0000&style=flat"></a>
 
 <a href="https://carpicoder.com" target="_blank"><img src="https://img.shields.io/badge/carpicoder.com-%23FF3C00.svg?style=flat&logoColor=white"></a>
 <a href="https://instagram.com/carpicoder"><img src="https://img.shields.io/badge/@carpicoder-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white"></a>
@@ -57,4 +57,4 @@ Frontend development Content Creator on my <a href="https://youtube.com/carpicod
 </p>
 
 ---
-<p align="center"><sub>This README file is generated <b>every 12 hours</b>!</br>Last refresh: Monday, December 9 at 2:01 AM GMT+1<br />Kudos to <a href="https://github.com/thmsgbrt">@thmsgbrt</a> for creating <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">this amazing tutorial</a> on how to do this.</sub></p>
+<p align="center"><sub>This README file is generated <b>every 12 hours</b>!</br>Last refresh: Monday, December 9 at 1:24 PM GMT+1<br />Kudos to <a href="https://github.com/thmsgbrt">@thmsgbrt</a> for creating <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">this amazing tutorial</a> on how to do this.</sub></p>
